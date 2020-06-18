@@ -1,0 +1,86 @@
+.parent {
+    top: 30px;
+    psoition: relative;
+    backround-color: blue;
+}
+
+section {
+    margin-bottom: 150px;
+    backround-color: chartruese;
+    height: 50px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+header {
+    margin-top: 55px;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+
+
+}
+
+body {
+    backround-color: azure;
+    font-size: 20px
+
+}
+
+main {
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+    text-justify: inter-word;
+}
+
+h1 {
+    text-align: center;
+    color: #5c5829;
+    font-size: 2em;
+
+}
+
+nav {
+    text-align: center;
+    margin-top: 25px
+
+}
+
+nav ul {
+    border-top: ;
+    border-bottom: ;
+
+}
+
+nav li {
+    display: inline;
+    margin: 25px;
+
+}
+
+.price {
+    position: fixed;
+
+
+}
+
+img {
+
+}
+
+footer{
+
+    height: ;
+    width: ;
+    backround-color: ;
+    position: ;
+    bottom: 0;
+
+}
